@@ -7,9 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Complaints Management System using Laravel**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Sprngboot**
 
 - 💬 Ask me about **PHP,LARAVEL**
 
